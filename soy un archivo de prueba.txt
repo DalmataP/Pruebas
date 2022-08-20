@@ -6,3 +6,4 @@ asldkaobqioufb
 /* mas relleno xd*/ 
 
 cabros recuerden que tienen que escribir git add . antes de hacer el commit
+el commit es git commit -m "el nombre del commit"
