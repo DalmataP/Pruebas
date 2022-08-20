@@ -1,0 +1,9 @@
+Deberia agregar texto para que funcione? o no?
+
+Lo que hice fue
+git status
+git add archivo
+git commit -m "Texto"
+git push -u origin main/master
+main no me dejo asi que hice master noma
+?
