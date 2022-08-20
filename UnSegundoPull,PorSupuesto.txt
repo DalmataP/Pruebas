@@ -6,3 +6,4 @@ git add archivo
 git commit -m "Texto"
 git push -u origin main/master
 main no me dejo asi que hice master noma
+?
